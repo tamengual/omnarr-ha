@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.5.3
+
+- Read-alongs: Storyteller books play with the sentence being read highlighted.
+- "For you" suggestions on the home page, each with the reason it was picked.
+- Save comics and ebooks for offline reading in the installed app.
+- Link your own BookBridge login so the readers keep your place in sync.
+
 ## 0.4.0
 
 - Read comics (Komga) and ebooks (Calibre EPUBs) in Omnarr, with everyone's place saved.
