@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3.1
+
+- Omnarr keeps everyone's progress itself, so one Omnarr account is all anyone needs.
+- Secure cookies over HTTPS, security headers, and a public address for invitation links.
+
 ## 0.3.0
 
 - Accounts for everyone in your household. Each Home Assistant user gets their own Omnarr
