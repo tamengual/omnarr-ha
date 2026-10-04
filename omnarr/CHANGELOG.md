@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.3
+
+- More accurate related-works matching (shows and movies match your library by id), and book lookups also try the subtitle.
+
 ## 0.2.2
 
 - Related works for shows, movies, books and comics: the whole franchise, adaptations and source material, grouped and matched to your library.
