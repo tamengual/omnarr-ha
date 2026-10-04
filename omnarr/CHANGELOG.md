@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.5
+
+- Requested comics are fetched as comic archives and Komga is asked to rescan when they arrive.
+
 ## 0.2.4
 
 - Request related books and comics in one click; Omnarr keeps looking until a good copy arrives.
