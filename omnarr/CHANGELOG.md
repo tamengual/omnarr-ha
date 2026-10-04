@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.4
+
+- Request related books and comics in one click; Omnarr keeps looking until a good copy arrives.
+
 ## 0.2.3
 
 - More accurate related-works matching (shows and movies match your library by id), and book lookups also try the subtitle.
