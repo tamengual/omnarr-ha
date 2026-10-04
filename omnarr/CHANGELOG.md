@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.3.3
+
+- Request approvals: a "can ask" permission whose requests wait for an admin.
+- Optional notifications (webhook for ntfy, Discord, Home Assistant or JSON; email per person).
+- Add to Home Screen support with an app icon.
+- 18+ Komga comics and Calibre books tagged NSFW only show in the PIN-locked private section.
+- Security headers on every response.
+
 ## 0.3.1
 
 - Omnarr keeps everyone's progress itself, so one Omnarr account is all anyone needs.
