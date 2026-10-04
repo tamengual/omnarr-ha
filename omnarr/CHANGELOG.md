@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.5.4
+
+- Fixed: videos that need transcoding didn't play in current Chrome.
+
 ## 0.5.3
 
 - Read-alongs: Storyteller books play with the sentence being read highlighted.
