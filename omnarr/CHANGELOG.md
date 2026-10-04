@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.2
+
+- Related works for shows, movies, books and comics: the whole franchise, adaptations and source material, grouped and matched to your library.
+
 ## 0.2.1
 
 - Built-in starter lists of well-known book→screen adaptations and shared universes (Middle-earth, the Cosmere, Dune…).
