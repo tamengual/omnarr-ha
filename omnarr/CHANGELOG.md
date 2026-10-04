@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.2.1
+
+- Built-in starter lists of well-known book→screen adaptations and shared universes (Middle-earth, the Cosmere, Dune…).
+- Tested on a real Home Assistant OS install.
+
 ## 0.2.0
 
 - First release as a Home Assistant add-on. Omnarr opens from the sidebar, and you're signed in through Home Assistant.
