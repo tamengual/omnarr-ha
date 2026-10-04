@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.4.0
+
+- Read comics (Komga) and ebooks (Calibre EPUBs) in Omnarr, with everyone's place saved.
+- Optional BookBridge position sync for the ebook reader.
+- Comic issues titled only by number show as "Series #N"; audiobooks sort correctly in Continue.
+
 ## 0.3.4
 
 - Comics you're reading in Komga show up in Continue.
