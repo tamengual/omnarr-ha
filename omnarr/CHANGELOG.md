@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.4
+
+- Comics you're reading in Komga show up in Continue.
+
 ## 0.3.3
 
 - Request approvals: a "can ask" permission whose requests wait for an admin.
