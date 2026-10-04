@@ -1,5 +1,5 @@
 name: Omnarr
-version: "0.2.5"
+version: "0.3.0"
 slug: omnarr
 description: One place to search, browse, request and play everything on your media apps
 url: https://github.com/tamengual/omnarr
@@ -28,7 +28,7 @@ map:
   - type: media
     read_only: true
   - type: share
-    read_only: true
+    read_only: false              # only written to if you set an upload folder under /share
   - type: all_addon_configs
     read_only: true
 watchdog: "http://[HOST]:[PORT:8765]/api/health"

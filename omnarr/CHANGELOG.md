@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.3.0
+
+- Accounts for everyone in your household. Each Home Assistant user gets their own Omnarr
+  account automatically, and the first one becomes admin.
+- Permissions per person: request downloads, save files to their device, upload, private section.
+- Invitation links (copy, or email them), per-person progress, Save to device and uploads.
+- `/share` is now mapped read-write so you can point uploads at a folder there. Omnarr
+  only writes to the upload folders you set.
+
 ## 0.2.5
 
 - Requested comics are fetched as comic archives and Komga is asked to rescan when they arrive.

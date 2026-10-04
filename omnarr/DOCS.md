@@ -38,8 +38,19 @@ README explains how. All the API-based apps work from anywhere.
 
 Opening Omnarr through the Home Assistant app or sidebar works everywhere, phones included.
 If you also want a direct address, set a host port for `8765/tcp` in the add-on's
-**Network** settings. Direct visitors sign in with Omnarr's own password, which you choose
-the first time you open that address.
+**Network** settings. Direct visitors sign in with their Omnarr username and password. Each
+person sets theirs in **Settings → Password**, from inside Home Assistant, so nobody else can
+claim an account through the open port.
+
+## People and permissions
+
+Everyone who opens Omnarr from Home Assistant gets their own account; the first becomes the
+admin. In **Settings → Users** an admin sets what each person can do (request downloads, save
+files, upload, private section). To invite someone without a Home Assistant login, create an
+**invitation link** there and send it. They'll use Omnarr's direct port (see *Direct access*).
+
+Uploads go to folders you choose in **Settings → Uploads**. Inside the add-on, use a folder
+under `/share` (e.g. `/share/omnarr-uploads`), and point your library apps at it.
 
 ## Your data
 
