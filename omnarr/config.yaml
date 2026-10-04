@@ -1,0 +1,34 @@
+name: Omnarr
+version: "0.2.0"
+slug: omnarr
+description: One place to search, browse, request and play everything on your media apps
+url: https://github.com/tamengual/omnarr
+arch:
+  - amd64
+  - aarch64
+image: ghcr.io/tamengual/omnarr
+init: false
+startup: application
+boot: auto
+# Open from the Home Assistant sidebar; HA's login is trusted (only via HA's ingress proxy).
+ingress: true
+ingress_port: 8765
+ingress_stream: true
+panel_icon: mdi:bookshelf
+panel_title: Omnarr
+environment:
+  OMNARR_HA_INGRESS: "1"
+# Optional direct access (e.g. for phones outside HA) — uses Omnarr's own password. Off by default.
+ports:
+  8765/tcp: null
+ports_description:
+  8765/tcp: Direct web access (optional; uses Omnarr's own password)
+# Read-only access to libraries that live on this machine (Calibre, Storyteller, BookBridge).
+map:
+  - type: media
+    read_only: true
+  - type: share
+    read_only: true
+  - type: all_addon_configs
+    read_only: true
+watchdog: "http://[HOST]:[PORT:8765]/api/health"
