@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.5.6
+
+- Audiobooks on phones reconnect after a pause or a dropped connection (earbuds out and back in, lock screen) instead of "playing" with no sound.
+- The home-screen app no longer opens to a blank screen on a slow connection.
+
 ## 0.5.4
 
 - Fixed: videos that need transcoding didn't play in current Chrome.
