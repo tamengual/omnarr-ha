@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.3
+
+- Fix: making your own BookBridge login works with BookBridge 7.8.
+
 ## 1.0.2
 
 - People can make their own logins in Jellyfin, Audiobookshelf, Komga, Calibre-Web (with a Kobo sync address), Storyteller, RomM and BookBridge from "Use on your devices", linked to their Omnarr account.
