@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.5
+
+- Private search offers "Find new scenes"; studios are recognised by any spelling or nickname.
+
 ## 1.0.4
 
 - Private (admins): find new scenes by meaning instead of exact release names, and follow studios/performers so their new scenes download automatically.
