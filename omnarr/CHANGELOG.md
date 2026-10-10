@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.4
+
+- Private (admins): find new scenes by meaning instead of exact release names, and follow studios/performers so their new scenes download automatically.
+
 ## 1.0.3
 
 - Fix: making your own BookBridge login works with BookBridge 7.8.
