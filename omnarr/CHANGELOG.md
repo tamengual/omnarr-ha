@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.0
+
+- **Use on your devices:** a built-in help page for everyone you invite: install Omnarr on a phone, send books to a Kindle or Kobo, listen, and watch on a TV. Add your own notes and outside-app addresses in Settings → Help for your devices.
+- Request books and comics straight from search when they aren't in your library.
+- Plex support, ReadMeABook audiobook requests, and bring-your-own apps (custom library feed, request webhook, Python plug-ins).
+
 ## 0.5.6
 
 - Audiobooks on phones reconnect after a pause or a dropped connection (earbuds out and back in, lock screen) instead of "playing" with no sound.
