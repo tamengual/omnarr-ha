@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.2
+
+- People can make their own logins in Jellyfin, Audiobookshelf, Komga, Calibre-Web (with a Kobo sync address), Storyteller, RomM and BookBridge from "Use on your devices", linked to their Omnarr account.
+- Admins see who's playing or reading what at the top of Activity.
+
 ## 1.0.1
 
 - People can ask for private-network access from "Use on your devices"; when you approve, Omnarr creates a single-use Tailscale invite that shares just this machine (connect Tailscale in Settings → Connections).
