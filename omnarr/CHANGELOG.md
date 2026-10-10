@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.1
+
+- People can ask for private-network access from "Use on your devices"; when you approve, Omnarr creates a single-use Tailscale invite that shares just this machine (connect Tailscale in Settings → Connections).
+- Optional comics folder for uploads: comic files go straight to your comics library, and comic EPUBs are repacked as CBZ.
+
 ## 1.0.0
 
 - **Use on your devices:** a built-in help page for everyone you invite: install Omnarr on a phone, send books to a Kindle or Kobo, listen, and watch on a TV. Add your own notes and outside-app addresses in Settings → Help for your devices.
