@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.8
+
+- Play Stash scenes and read adult comics inside Omnarr (Private only, never saved offline).
+
 ## 1.0.7
 
 - Private downloads get their real details in Stash and a proper file name (through qBittorrent, so they keep seeding).
