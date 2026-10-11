@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.7
+
+- Private downloads get their real details in Stash and a proper file name (through qBittorrent, so they keep seeding).
+
 ## 1.0.6
 
 - Private Find: a Gay only switch and search by scene type (solo, group, DP, animated...).
