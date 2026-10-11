@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.6
+
+- Private Find: a Gay only switch and search by scene type (solo, group, DP, animated...).
+
 ## 1.0.5
 
 - Private search offers "Find new scenes"; studios are recognised by any spelling or nickname.
