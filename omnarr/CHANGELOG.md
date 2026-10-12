@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.9
+
+- Private Find: a Get button on suggested scenes downloads each one in the background when a clear match turns up.
+
 ## 1.0.8
 
 - Play Stash scenes and read adult comics inside Omnarr (Private only, never saved offline).
