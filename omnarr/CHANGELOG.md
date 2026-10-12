@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.12
+
+- Optional: newly added big visual movies move to a 4K Radarr profile automatically.
+
 ## 1.0.10
 
 - Activity explains each download in plain words with an arrival estimate, adds a Coming up calendar, and shows app health to admins.
