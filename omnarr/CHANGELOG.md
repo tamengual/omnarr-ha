@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.10
+
+- Activity explains each download in plain words with an arrival estimate, adds a Coming up calendar, and shows app health to admins.
+
 ## 1.0.9
 
 - Private Find: a Get button on suggested scenes downloads each one in the background when a clear match turns up.
