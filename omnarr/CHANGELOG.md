@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.13
+
+- Fix: the qBittorrent connection now signs in to qBittorrent 5.x.
+
 ## 1.0.12
 
 - Optional: newly added big visual movies move to a 4K Radarr profile automatically.
