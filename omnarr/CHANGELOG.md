@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.14
+
+- Fix: finished Private downloads are found in Stash and renamed reliably.
+
 ## 1.0.13
 
 - Fix: the qBittorrent connection now signs in to qBittorrent 5.x.
