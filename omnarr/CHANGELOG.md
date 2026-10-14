@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.15
+
+- Movie and TV requests: whoever asked is told when it's ready to watch, with a Watch button in Activity.
+- Stalled Private downloads are replaced with another copy after 6 hours without progress.
+
 ## 1.0.14
 
 - Fix: finished Private downloads are found in Stash and renamed reliably.
