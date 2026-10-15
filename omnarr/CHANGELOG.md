@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.16
+
+- "For you" learns the themes of your library (Open Library subjects, TMDB keywords), adds "More from authors you collect" and "Stories about what you love", and has a Your taste section in My account.
+
 ## 1.0.15
 
 - Movie and TV requests: whoever asked is told when it's ready to watch, with a Watch button in Activity.
