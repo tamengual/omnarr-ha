@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.18
+
+- "For you": series and franchises count once, clearer reasons, fewer box sets and companion books.
+
 ## 1.0.17
 
 - One search button for books and movies & TV; book search finds authors (even misspelled ones from your library).
