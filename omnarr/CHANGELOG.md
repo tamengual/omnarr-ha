@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.17
+
+- One search button for books and movies & TV; book search finds authors (even misspelled ones from your library).
+
 ## 1.0.16
 
 - "For you" learns the themes of your library (Open Library subjects, TMDB keywords), adds "More from authors you collect" and "Stories about what you love", and has a Your taste section in My account.
